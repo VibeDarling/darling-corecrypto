@@ -185,9 +185,11 @@ _ccdes_ecb_encrypt_mode
 _ccdes_key_is_weak
 _ccdes_key_set_odd_parity
 _ccdes_ofb_crypt_mode
+_ccdh_ccn_size
 _ccdh_compute_key
 _ccdh_compute_shared_secret
 _ccdh_export_pub
+_ccdh_gp_n
 _ccdh_generate_key
 #_ccdh_gp_apple768
 _ccdh_gp_rfc2409group02
@@ -580,6 +582,7 @@ _ccz_zero
 _cczp_init
 _cczp_init_with_recip
 #_cczp_inv
+_cczp_n
 _cczp_power
 #_cczp_power_fast
 #_csss_shamir_share_bag_can_recover_secret
